@@ -1,0 +1,43 @@
+sir I want to know what is the difference between.
+> kill [pid] and kill -9 [pid]
+
+
+sandeep@cloudxlab.com 
+
+
+in Linux is it possible ?
+
+-- can we assign a path to a variable, and use this variable to go to that path 
+like
+path1= home/a/b/c/d/s
+
+and to use the path we just type 
+path1/wordp.txt
+--
+
+Difference between ‘ls’ and ‘ls -1’
+=======
+is there any in-built mechanism to clear data in tmp or its a manual job?
+
+--
+Sir I had a question regarding sed and tr command.
+
+--
+How to copy all files of a directory into another. for example if I have a directory a/b/c. How can I copy all files(any extension) of c into b
+
+cp 
+cp -r 
+====
+rsync x y 
+man rsync
+
+in Linux is it possible ?
+
+-- can we assign a path to a variable, and use this variable to go to that path 
+like
+path1= home/a/b/c/d/s
+
+and to use the path we just type 
+path1/wordp.txt
+
+https://unix.stackexchange.com/questions/317492/list-of-kill-signals
