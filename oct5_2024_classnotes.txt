@@ -41,3 +41,23 @@ and to use the path we just type
 path1/wordp.txt
 
 https://unix.stackexchange.com/questions/317492/list-of-kill-signals
+
+
+wsl - windows subsystem for Linux
+
+https://colab.research.google.com/
+
+# 1. Choose a base between 2 and 10 (avoid 10)
+
+# 2. Write the counting upto 3 digits.
+
+# 3. Wite Single digit addition subtraction
+
+# 4. Wite Double digit addition subtraction
+
+# 5. Multiple single digits - Write tables B * B - 
+
+# 6. Start with multi digits multiplication
+
+# 7. Write code to translate your number system to/from decimal
+
