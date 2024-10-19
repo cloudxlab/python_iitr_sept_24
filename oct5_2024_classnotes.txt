@@ -52,12 +52,18 @@ https://colab.research.google.com/
 # 2. Write the counting upto 3 digits.
 
 # 3. Wite Single digit addition subtraction
+# base 5
+0 1 2 3 4..
+1 2 3 4 10
+2 3 4 10 11
+3 4 10 11 12
+..
 
 # 4. Wite Double digit addition subtraction
 
-# 5. Multiple single digits - Write tables B * B - 
+# 5. Multiplyt single digits - Write tables B * B - 
 
 # 6. Start with multi digits multiplication
 
-# 7. Write code to translate your number system to/from decimal
+# 7. Write algorithm to translate your number system to/from decimal
 
