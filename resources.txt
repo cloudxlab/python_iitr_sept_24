@@ -1,0 +1,20 @@
+Stuff on CloudXLab -->
+Labs - https://cloudxlab.com/my-lab
+
+Course content and assessments - https://cloudxlab.com/course/my
+
+----------------------------------------------------------------------
+Stuff on Github -->
+
+Class Notes & Class Practice - 
+ClassNotes can be found on github in this file- oct5_2024_classnotes.txt
+Class Practice can be found on github in this file - oct 6.ipynb
+
+-----------------------------------------------------------------------
+External Links shared in the classes and some others -->
+
+Tower of Hanoi logic -  https://www.youtube.com/watch?v=rf6uf3jNjbo&t=2s
+
+CTF for Linux - https://overthewire.org/wargames/bandit/
+
+List of some recursion problems - https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-recursion.php
